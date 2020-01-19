@@ -1,4 +1,4 @@
-Worlds/
+worlds/
 upload/
 logs/
 *.jar
@@ -8,11 +8,5 @@ Bukkit/
 CraftBukkit/
 Spigot/
 apache-maven-3.6.0/
-etc/griefprevention.link
-help.yml
 *.log
-launch-spigot.sh
-permissions.yml
-spigot.yml
 work/
-worlds/
