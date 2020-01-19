@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "uuid": "173a8b03-6ccc-47d3-993f-72d52eeba1f1",
+    "name": "EineKleineGaming"
+  },
+  {
+    "uuid": "6df83394-47f5-4c0f-9074-0a099030a90c",
+    "name": "Pontilocutus"
+  },
+  {
+    "uuid": "fcb557b5-ea0f-4c59-9d0a-ab8f6b3f757a",
+    "name": "BadVoodoo"
+  },
+  {
+    "uuid": "b24859e6-9892-49c9-ba1c-0331bdd530d1",
+    "name": "Trrxpy"
+  }
+]
