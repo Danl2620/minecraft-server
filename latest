@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+<meta name="captcha-bypass" id="captcha-bypass" />
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/cf.errors.css" type="text/css" media="screen,projection" />
+<!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<style type="text/css">body{margin:0;padding:0}</style>
+
+
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/zepto.min.js"></script><!--<![endif]-->
+<!--[if gte IE 10]><!--><script type="text/javascript" src="/cdn-cgi/scripts/cf.common.js"></script><!--<![endif]-->
+
+
+
+
+</head>
+<body>
+  <div id="cf-wrapper">
+    <div class="cf-alert cf-alert-error cf-cookie-error" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>
+    <div id="cf-error-details" class="cf-error-details-wrapper">
+      <div class="cf-wrapper cf-header cf-error-overview">
+        <h1 data-translate="challenge_headline">One more step</h1>
+        <h2 class="cf-subheadline"><span data-translate="complete_sec_check">Please complete the security check to access</span> dev.bukkit.org</h2>
+      </div><!-- /.header -->
+      
+      <div class="cf-section cf-highlight cf-captcha-container">
+        <div class="cf-wrapper">
+          <div class="cf-columns two">
+            <div class="cf-column">
+            
+              <div class="cf-highlight-inverse cf-form-stacked">
+                <form class="challenge-form" id="challenge-form" action="/projects/worldedit/files/latest?__cf_chl_captcha_tk__=85b4456d3f21ee752d051b232239cc9324dd81ca-1583090209-0-AUDIKvQjZmEQ-GKkt_zwMwrEPiNLiAWBAigNeYaMz62yCRzxRfnNBgjWebupDgQts0E0LxfIvwOfDmnLyhxkYlsP0iv0ex4qgpmfP1lulfxJWSJlZ9BmSF4Q89U6t7bu5dBwTWHSQAAKr1ATAWBv5UnGDNiQXRnBTqdDhOIHjtrKlY5pyAlvw6k0f-eEKmL7UuYL8MRv2LXvBtsXb98bzTZ1anZFjPOcajcdz8BdeAOipxoQePaOyGSIBCiYgKr49JicHL8WuQ8zKgJ51VyCrVTJnspxUZLEthaUmEq02rgEH2X6GUR0JUtyzLXXjNWjetDbTQ5bN_b_I98tJohfmE7SFzpyyIfuLoYV6nRKk69-jkT23efBCXlIHuhUstvCi8qO0ydIDKEz32VHTQZrTH6mdRURJWunFP0Yid14tK-a46-5o0gHDj1Z1jFL8x3RVlLmNhAHFiCxGAp6TOxEdXTUnTWaVqzsZIxJIy2Df5YH" method="POST" enctype="application/x-www-form-urlencoded">
+  <input type="hidden" name="r" value="864dc0989adcabeee77459c2a3c6560adde3347a-1583090209-0-ASWETzIhQOSPjy64Nn8h3Sy4aQdGAgxBws0qTk/eh0XGD5CyqbYzPrmDWy31YMOey9PfqRFyHY8cn4ZJqMXHeZwxBnYE7lY103P6mZM7qmKJ+RBK4bQfy9BH5nrGBDyO+/VdrUCcM0CuUK9LFcJubQrsT8AlCb5ArY0HCG8Xu0vdRcXLuQhVHMNe6QkpHfsP7c3RNlj8XuMToVw7joaiyedo7FYQ2y2TkJMLLd0Hq245Yx36MZZhraP00t38+qasSyDy0nMr8ALIPzRhPHQ0DlMGBKX9t9xs0eoKi6Q0QAbNiA/YXTjrIfuEj2lz3Oy0WRVBUurbeQVcMvf3LRnhcGfTxYnmv45qF9x1geIXa0fFQNL2qF/IMK/6ew8tqYgan0QsZdxzTvJ2N91OCqGsLtvfQI8Dyu6Bi7AjBMbUKxrz1RcirH984adTQu6J7HzvPjidiW1kSdQ/0v+e3Qu8n6rhH1MQHTMkw6oab49uwnUaggwZazawztRWTsUxemRI1OvTMkPDHdpyRxj+XcxwPFsr+neeSG848DC8cxgvuyBwYlZ+dphTiO3sc2YbFyr9NSFdDEsMfwDr9Zsn5BdorTmG7rx9wOkgn2kBazDCGh4k0U846aH9fFCRLIpZW+NYitmQc3n/iREttlkO5tkMUrRHDzIFACptZ5mZrZew3/5PyJ5GgXPbv/RjZtLyBzkbv8oej+sVZDZXsbFN0KqyaV++jdZOt65AAYnvS1gNeUVqGXZ2PmXRxEwMCEc5bSdxwJn/N6xMgaVPSTGAeHtjRHYlliI8OoTiy5n/1R8Wj9n6HjoXytS4V0oZkg6+gO+6dTxW27FBTSYSx3rkXsfzWCqUaRa6+R7LqGYLLk1HxTBzUhTp+1u1rMRHpMUaMaOZHAZ4sZbx1QrerEEzKyFh/eNDfSvTMuxbLPm6qDxfNDwcOcvZTKZnY7iwUSAOjDojHJxnd0lWrOTq99exOhh87J+xT7BDDdxztTpibc28dlJCrtsB1mUEmZbu2gcUL+QNCoGIwdAuccspPcxergd9Lnlh+VZ0lITTR8XttOCMW7EHKT/NB2JUT3Vb/FsMjOq8ev2dbY1J55OqjEOyXG2f9U8VfLQtm9wxbjkzgfpqu07Kqzxh6lwJ1MyZ5jU+NhhEGvxObXkpDTKyw0LJEgwhepOfjCVtlRa3cv4+Cqds6g2duQG3ko6fFcvVaD2NN/od07xjfZf19Jt5okCyT4Lplwez4D/h4udfrQzZxYTq70oqIKs+z9Wi0WMTlW3yxCDgIOj59z48XzO/MHLwaZLoKa8bM67pEUCW3HEWCt5mak5C">
+  <script type="text/javascript" src="/cdn-cgi/scripts/cf.challenge.js" data-type="normal"  data-ray="56d536f40b04f54d" async data-sitekey="6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0"></script>
+  <input type="hidden" name="cf_captcha_kind" value="re">
+  <div class="g-recaptcha"></div>
+  <noscript id="cf-captcha-bookmark" class="cf-captcha-info">
+    <div><div style="width: 302px">
+      <div>
+        <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LfBixYUAAAAABhdHynFUIMA_sa4s-XsJvnjtgB0" frameborder="0" scrolling="no" style="width: 302px; height:422px; border-style: none;"></iframe>
+      </div>
+      <div style="width: 300px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+        <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;"></textarea>
+        <input type="submit" value="Submit"></input>
+      </div>
+    </div></div>
+  </noscript>
+  <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/re/transparent.gif?ray=56d536f40b04f54d')"> </div>
+</form>
+
+                
+              </div>
+            </div>
+
+            <div class="cf-column">
+              <div class="cf-screenshot-container">
+              
+                <span class="cf-no-screenshot"></span>
+              
+              </div>
+            </div>
+          </div><!-- /.columns -->
+        </div>
+      </div><!-- /.captcha-container -->
+
+      <div class="cf-section cf-wrapper">
+        <div class="cf-columns two">
+          <div class="cf-column">
+            <h2 data-translate="why_captcha_headline">Why do I have to complete a CAPTCHA?</h2>
+            
+            <p data-translate="why_captcha_detail">Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.</p>
+          </div>
+
+          <div class="cf-column">
+            <h2 data-translate="resolve_captcha_headline">What can I do to prevent this in the future?</h2>
+            
+
+            <p data-translate="resolve_captcha_antivirus">If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.</p>
+
+            <p data-translate="resolve_captcha_network">If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.</p>
+            
+              
+            
+          </div>
+        </div>
+      </div><!-- /.section -->
+      
+
+      <div class="cf-error-footer cf-wrapper">
+  <p>
+    <span class="cf-footer-item">Cloudflare Ray ID: <strong>56d536f40b04f54d</strong></span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Your IP</span>: 52.43.12.45</span>
+    <span class="cf-footer-separator">&bull;</span>
+    <span class="cf-footer-item"><span>Performance &amp; security by</span> <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=error_footer" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div><!-- /#cf-error-details -->
+  </div><!-- /#cf-wrapper -->
+
+  <script type="text/javascript">
+  window._cf_translation = {};
+  
+  
+</script>
+
+
+  
+</body>
+</html>
